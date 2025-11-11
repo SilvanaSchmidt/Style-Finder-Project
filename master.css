@@ -9,6 +9,17 @@ body {
     padding-left: 30px;
 }
 
+#Y2Khomepagephoto{
+    width: 180px;
+    height: 285px;
+}
+
+#officewearhomepagephoto{
+    width: 180px;
+    height: 285px;
+    margin: 20px;
+}
+
 @font-face {
     font-family: Akira;
     src: url(akira_expanded/Akira\ Expanded\ Demo.otf) format(opentype);
@@ -18,5 +29,6 @@ body {
 h1{
     padding: 50px;
     font-family: Akira;
+    font-style: italic;
     font-size: 100px;
 }
