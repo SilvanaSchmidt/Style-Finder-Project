@@ -3,21 +3,39 @@ body {
 }
 
 #grungehomepagephoto{
-    width: 250px;
-    height: 325px;
-    padding: 20px;
-    padding-left: 30px;
+    width: 265px;
+    height: 385px;
+    padding: 5px;
+    margin-left: 20px;
 }
 
 #Y2Khomepagephoto{
-    width: 180px;
-    height: 285px;
+    width: 265px;
+    height: 385px;
+    padding: 5px;
+    margin-left: 20px;
 }
 
 #officewearhomepagephoto{
-    width: 180px;
-    height: 285px;
-    margin: 20px;
+    width: 265px;
+    height: 385px;
+    padding: 5px;
+    margin-left: 20px;
+}
+
+#streetwearhomepagephoto{
+    width: 265px;
+    height: 385px;
+    padding: 5px;
+    margin-left: 20px;
+}
+
+#athleisurehomepagephoto{
+    width: 265px;
+    height: 385px;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 @font-face {
