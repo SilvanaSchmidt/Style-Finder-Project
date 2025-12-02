@@ -5,41 +5,39 @@ body {
 #grungehomepagephoto{
     width: 265px;
     height: 385px;
-    padding: 5px;
-    margin-left: 20px;
-    float: left;
+
 }
 
 #Y2Khomepagephoto{
     width: 265px;
     height: 385px;
-    padding: 5px;
-    margin-left: 20px;
-    float: left;
+
 }
 
 #officewearhomepagephoto{
     width: 265px;
     height: 385px;
-    padding: 5px;
-    margin-left: 20px;
+
 }
 
 #streetwearhomepagephoto{
     width: 265px;
     height: 385px;
-    padding: 5px;
-    margin-left: 20px;
-    float: left;
+
 }
 
 #athleisurehomepagephoto{
     width: 265px;
     height: 385px;
-    padding: 5px;
-    margin-left: 20px;
-    margin-right: 20px;
-    float: left;
+    
+}
+
+.homepagephotoscontainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 @font-face {
