@@ -1,6 +1,11 @@
 body {
   height: 100%;
-  background-color: cadetblue;
+  background-color: rgb(137, 148, 207); 
+}
+
+@font-face {
+    font-family: Akira;
+    src: url(akira_expanded/Akira\ Expanded\ Demo.otf) format(opentype);
 }
 
 .form-signin {
@@ -24,3 +29,7 @@ body {
   border-top-right-radius: 0;
 }
 
+.h3 mb-3 fw-normal {
+  font-family: Akira;
+  text-align: center;
+}
