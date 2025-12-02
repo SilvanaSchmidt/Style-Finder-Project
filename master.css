@@ -57,3 +57,22 @@ h2{
     font-size: 20px;
 }
 
+.homepagephototitle{
+    text-align: center;
+    font-family: Akira;
+    font-size: 25px;
+    padding-top: 5px;
+}
+
+@font-face {
+    font-family: Nonserif;
+    src: url(nonserif/Nonserif.ttf) format(opentype);
+}
+.aestheticdescription{
+    font-family: Nonserif;
+    font-size: 17px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
