@@ -6,8 +6,15 @@
 .product1{
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.1);
 }
+body{
+    width: 100%;
+    padding: 120px;
+}
 .street_container{
     display: grid;
     grid-template-columns: auto auto auto auto;
     gap: 30px;
+}
+.product1 img{
+    width 100;
 }
