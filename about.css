@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(137, 148, 207);
+}
+
+@font-face {
+    font-family: Akira;
+    src: url(akira_expanded/Akira\ Expanded\ Demo.otf) format(opentype);
+}
+
+#aboutheading{
+    font-family: Akira;
+    font-style: italic;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
