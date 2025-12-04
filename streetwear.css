@@ -4,6 +4,10 @@
 
 }
 
+body {
+    background-color: #9bd8f7;
+}
+
 @font-face {
     font-family: Akira;
     src: url(akira_expanded/Akira\ Expanded\ Demo.otf) format(opentype);
@@ -30,6 +34,7 @@ h1{
 img {
     width: auto;
     height: 435px;
+    border: 3px solid black;
 }
 
 .product_desc{
