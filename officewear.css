@@ -28,6 +28,7 @@ h1{
     padding-right: 40px;
     padding-top: 40px;
     padding-bottom: 40px;
+    gap: 20px;
 }
 
 img {
@@ -37,5 +38,5 @@ img {
 }
 
 .product_desc{
-    width: 400px;
+    width: 350px;
 }
